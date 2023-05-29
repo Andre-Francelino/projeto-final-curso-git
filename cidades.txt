@@ -1,0 +1,12 @@
+Lista Cidades:
+
+Patos-PB
+Mossoró-RN
+Salvador-BA
+Taperoá-PB
+Santa Cruz do Capibaribe-PE
+João Pessoa-PB
+Campina Grande-PB
+Natal-RN
+Recife-PE
+Paulo Afonso-BA
